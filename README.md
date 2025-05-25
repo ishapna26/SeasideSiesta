@@ -1,19 +1,2 @@
-Technologies Used:
-HTML, CSS, JavaScript, PHP
+Sea Side Siesta is a hotel management system website built using HTML, CSS, JavaScript, and PHP. It offers a smooth and user-friendly experience for both guests and hotel staff. The website includes essential pages such as a Home Page to showcase the beachside ambiance, a Booking Page for reserving accommodations, a Dining Reservation Page to book tables, a Gallery Page to explore hotel images, a Contact Page for direct communication, and a Login/Signup Page for account creation and personalized access. Sea Side Siesta combines functionality with elegance to deliver a complete digital hospitality solution.
 
-Overview:
-Sea Side Siesta is a hotel management system website designed to enhance guest experience and streamline hotel operations.
-
-Features / Web Pages:
-
-Home Page – Visual introduction with a beachside luxury theme
-
-Booking Page – For accommodation reservations
-
-Dining Reservations – Reserve tables and explore menus
-
-Gallery – Browse hotel images and amenities
-
-Contact Page – Direct communication with hotel staff
-
-Login/Signup Page – Create accounts and sign in for personalized features
